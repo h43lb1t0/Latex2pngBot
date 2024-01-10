@@ -4,7 +4,6 @@ import re
 import subprocess
 import interactions
 from dotenv import load_dotenv
-from PIL import Image
 
 load_dotenv()
 
